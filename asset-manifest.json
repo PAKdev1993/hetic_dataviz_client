@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hetic_dataviz_client/static/css/main.b10c820d.chunk.css",
+    "main.js": "/hetic_dataviz_client/static/js/main.a5d0d155.chunk.js",
+    "main.js.map": "/hetic_dataviz_client/static/js/main.a5d0d155.chunk.js.map",
+    "runtime~main.js": "/hetic_dataviz_client/static/js/runtime~main.1ee4b60e.js",
+    "runtime~main.js.map": "/hetic_dataviz_client/static/js/runtime~main.1ee4b60e.js.map",
+    "static/css/2.7ff19518.chunk.css": "/hetic_dataviz_client/static/css/2.7ff19518.chunk.css",
+    "static/js/2.1cc5834d.chunk.js": "/hetic_dataviz_client/static/js/2.1cc5834d.chunk.js",
+    "static/js/2.1cc5834d.chunk.js.map": "/hetic_dataviz_client/static/js/2.1cc5834d.chunk.js.map",
+    "index.html": "/hetic_dataviz_client/index.html",
+    "precache-manifest.d50cf2e13a20d86434d51377b2aabc87.js": "/hetic_dataviz_client/precache-manifest.d50cf2e13a20d86434d51377b2aabc87.js",
+    "service-worker.js": "/hetic_dataviz_client/service-worker.js",
+    "static/css/2.7ff19518.chunk.css.map": "/hetic_dataviz_client/static/css/2.7ff19518.chunk.css.map",
+    "static/css/main.b10c820d.chunk.css.map": "/hetic_dataviz_client/static/css/main.b10c820d.chunk.css.map"
+  }
+}
