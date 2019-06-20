@@ -1,0 +1,12 @@
+.independant::before,
+.independant::after {
+  top: 29%;
+}
+.technicien::before,
+.technicien::after {
+  top: -25%;
+}
+.cadre::before,
+.cadre::after {
+  top: 40%;
+}
