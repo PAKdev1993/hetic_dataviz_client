@@ -17,7 +17,7 @@ const Root = () => (
       <GlobalStyle />
       <Router>
         <Switch>
-          <Route path={process.env.PUBLIC_URL + '/'} component={App} />
+          <Route path='/' component={App} />
         </Switch>
       </Router>
     </>
